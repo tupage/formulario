@@ -1,0 +1,27 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-image: url(https://th.bing.com/th/id/OIP.e9zzJWNdizCxC0w1IW5UFwHaNE?&w=160&h=240&c=7&pid=ImgDet);
+     margin: 0;
+     padding: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+ }
+
+ #infoBox {
+     text-align: center;
+     padding: 20px;
+     background-color:#34495e;
+     color: #fff;
+     border-radius: 10px;
+ }
+
+ ul {
+     list-style-type: none;
+     padding: 0;
+ }
+
+ li {
+     margin: 10px 0;
+ }
